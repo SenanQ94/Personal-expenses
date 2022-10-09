@@ -1,16 +1,16 @@
-# first_test_max_app
+# personal_expenses
 
-A new Flutter project.
+## Mobile application to handle your daily finance 
+                              
+                              
+                              
+![Screenshot_20221009_061805](https://user-images.githubusercontent.com/115164036/194738349-6f29fea2-34b4-4216-a51f-41bf6dc66010.jpg)  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_20221009_061944](https://user-images.githubusercontent.com/115164036/194738345-6bd884ae-8ebe-485f-bedd-495a87e1d397.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_20221009_061932](https://user-images.githubusercontent.com/115164036/194738348-51771fa7-97e4-41fb-b651-1062876edc3b.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_20221009_062227](https://user-images.githubusercontent.com/115164036/194738342-19b2fcdf-118c-4736-8941-68f2a5da9186.jpg)
